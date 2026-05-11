@@ -2,4 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://t.me/ShiftDev
 
-https://sub.vpnul.codes/DMJM0SnGqBYjxkLP
+vless://55088c42-2615-4680-8777-6d601b089c25@85.209.134.195:25555?encryption=none&security=reality&sni=www.google.com&fp=chrome&pbk=1v0189O6M_6352S6_C_yv65751846C7E2Y04984A0U4&sid=4289467c10248a&type=grpc&serviceName=grpc#%F0%9F%87%A9%F0%9F%87%AA+ShiftVPN+Germany+Turbo
+vless://55088c42-2615-4680-8777-6d601b089c25@193.32.202.138:51244?encryption=none&security=reality&sni=www.google.com&fp=chrome&pbk=1v0189O6M_6352S6_C_yv65751846C7E2Y04984A0U4&sid=4289467c10248a&type=grpc&serviceName=grpc#%F0%9F%87%B3%F0%9F%87%B1+ShiftVPN+Netherlands+Turbo
+vless://55088c42-2615-4680-8777-6d601b089c25@141.98.252.134:44654?encryption=none&security=reality&sni=www.google.com&fp=chrome&pbk=1v0189O6M_6352S6_C_yv65751846C7E2Y04984A0U4&sid=4289467c10248a&type=grpc&serviceName=grpc#%F0%9F%87%BA%F0%9F%87%B8+ShiftVPN+USA+Turbo
