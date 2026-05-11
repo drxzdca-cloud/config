@@ -2,4 +2,4 @@
 #profile-update-interval: 1
 #support-url: https://t.me/ShiftDev
 
-https://raw.githubusercontent.com/v2rayfree/v2rayfree.github.io/master/V2RAY/VLESS/sub
+https://raw.githubusercontent.com/StealthNetVPN/StealthNet/refs/heads/main/StealthNetVPN
