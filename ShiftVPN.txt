@@ -2,6 +2,4 @@
 #profile-update-interval: 1
 #support-url: https://t.me/ShiftDev
 
-vless://00d603e8-55cc-484c-b847-a8470a649386@104.16.51.111:443?encryption=none&security=tls&sni=itunes.apple.com&type=ws&host=itunes.apple.com&path=%2F#%F0%9F%87%A9%F0%9F%87%AA+ShiftVPN+Germany+WS
-vless://00d603e8-55cc-484c-b847-a8470a649386@104.19.163.50:443?encryption=none&security=tls&sni=google.com&type=ws&host=google.com&path=%2F#%F0%9F%87%BA%F0%9F%87%B8+ShiftVPN+USA+WS
-vless://00d603e8-55cc-484c-b847-a8470a649386@172.67.73.153:443?encryption=none&security=tls&sni=google.com&type=ws&host=google.com&path=%2F#%F0%9F%87%AB%F0%9F%87%B7+ShiftVPN+France+WS
+https://sub.vpnul.codes/DMJM0SnGqBYjxkLP
