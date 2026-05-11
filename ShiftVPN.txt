@@ -1,0 +1,5 @@
+#profile-title: base64:U2hpZnRWUE4gT2ZmaWNpYWw=
+#profile-update-interval: 1
+#support-url: https://t.me/ShiftDev
+
+https://raw.githubusercontent.com/StealthNetVPN/StealthNet/refs/heads/main/StealthNetVPN
