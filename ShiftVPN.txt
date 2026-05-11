@@ -2,6 +2,4 @@
 #profile-update-interval: 1
 #support-url: https://t.me/ShiftDev
 
-vless://8e2689e4-6a95-46f3-9abc-384358823f61@104.18.33.197:443?encryption=none&security=tls&sni=google.com&type=ws&host=google.com&path=%2F%3Fed%3D2560#%F0%9F%87%A9%F0%9F%87%AA+ShiftVPN+Germany
-vless://8e2689e4-6a95-46f3-9abc-384358823f61@172.67.172.100:443?encryption=none&security=tls&sni=itunes.apple.com&type=ws&host=itunes.apple.com&path=%2F%3Fed%3D2560#%F0%9F%87%BA%F0%9F%87%B8+ShiftVPN+USA
-vless://8e2689e4-6a95-46f3-9abc-384358823f61@104.21.57.181:443?encryption=none&security=tls&sni=itunes.apple.com&type=ws&host=itunes.apple.com&path=%2F%3Fed%3D2560#%F0%9F%87%B3%F0%9F%87%B1+ShiftVPN+Netherlands
+https://raw.githubusercontent.com/v2rayfree/v2rayfree.github.io/master/V2RAY/VLESS/sub
