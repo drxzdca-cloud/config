@@ -1,6 +1,5 @@
 #profile-title: base64:U2hpZnRWUE4gT2ZmaWNpYWw=
 
-vless://55088c42-2615-4680-8777-6d601b089c25@85.209.134.195:25555?encryption=none&security=reality&sni=www.google.com&fp=chrome&pbk=1v0189O6M_6352S6_C_yv65751846C7E2Y04984A0U4&sid=4289467c10248a&type=grpc&serviceName=grpc#%F0%9F%9A%80+ShiftVPN+Germany
-vless://55088c42-2615-4680-8777-6d601b089c25@193.32.202.138:51244?encryption=none&security=reality&sni=www.google.com&fp=chrome&pbk=1v0189O6M_6352S6_C_yv65751846C7E2Y04984A0U4&sid=4289467c10248a&type=grpc&serviceName=grpc#%F0%9F%9A%80+ShiftVPN+Netherlands
-vless://55088c42-2615-4680-8777-6d601b089c25@141.98.252.134:44654?encryption=none&security=reality&sni=www.google.com&fp=chrome&pbk=1v0189O6M_6352S6_C_yv65751846C7E2Y04984A0U4&sid=4289467c10248a&type=grpc&serviceName=grpc#%F0%9F%9A%80+ShiftVPN+USA
-vless://55088c42-2615-4680-8777-6d601b089c25@185.242.85.161:46061?encryption=none&security=reality&sni=www.google.com&fp=chrome&pbk=1v0189O6M_6352S6_C_yv65751846C7E2Y04984A0U4&sid=4289467c10248a&type=grpc&serviceName=grpc#%F0%9F%9A%80+ShiftVPN+Spain
+vless://55088c42-2615-4680-8777-6d601b089c25@85.209.134.195:25555?encryption=none&security=reality&sni=www.google.com&fp=chrome&pbk=1v0189O6M_6352S6_C_yv65751846C7E2Y04984A0U4&sid=4289467c10248a&type=grpc&serviceName=grpc#%F0%9F%9A%80+ShiftVPN+Germany+Fast
+vless://55088c42-2615-4680-8777-6d601b089c25@193.32.202.138:51244?encryption=none&security=reality&sni=www.google.com&fp=chrome&pbk=1v0189O6M_6352S6_C_yv65751846C7E2Y04984A0U4&sid=4289467c10248a&type=grpc&serviceName=grpc#%F0%9F%9A%80+ShiftVPN+Netherlands+Fast
+vless://55088c42-2615-4680-8777-6d601b089c25@141.98.252.134:44654?encryption=none&security=reality&sni=www.google.com&fp=chrome&pbk=1v0189O6M_6352S6_C_yv65751846C7E2Y04984A0U4&sid=4289467c10248a&type=grpc&serviceName=grpc#%F0%9F%9A%80+ShiftVPN+USA+Fast
