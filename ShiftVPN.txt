@@ -2,6 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://t.me/ShiftDev
 
-vless://55088c42-2615-4680-8777-6d601b089c25@85.209.134.195:25555?encryption=none&security=reality&sni=www.google.com&fp=chrome&pbk=1v0189O6M_6352S6_C_yv65751846C7E2Y04984A0U4&sid=4289467c10248a&type=grpc&serviceName=grpc#%F0%9F%87%A9%F0%9F%87%AA+ShiftVPN+Germany+Turbo
-vless://55088c42-2615-4680-8777-6d601b089c25@193.32.202.138:51244?encryption=none&security=reality&sni=www.google.com&fp=chrome&pbk=1v0189O6M_6352S6_C_yv65751846C7E2Y04984A0U4&sid=4289467c10248a&type=grpc&serviceName=grpc#%F0%9F%87%B3%F0%9F%87%B1+ShiftVPN+Netherlands+Turbo
-vless://55088c42-2615-4680-8777-6d601b089c25@141.98.252.134:44654?encryption=none&security=reality&sni=www.google.com&fp=chrome&pbk=1v0189O6M_6352S6_C_yv65751846C7E2Y04984A0U4&sid=4289467c10248a&type=grpc&serviceName=grpc#%F0%9F%87%BA%F0%9F%87%B8+ShiftVPN+USA+Turbo
+vless://00d603e8-55cc-484c-b847-a8470a649386@104.16.51.111:443?encryption=none&security=tls&sni=itunes.apple.com&type=ws&host=itunes.apple.com&path=%2F#%F0%9F%87%A9%F0%9F%87%AA+ShiftVPN+Germany+WS
+vless://00d603e8-55cc-484c-b847-a8470a649386@104.19.163.50:443?encryption=none&security=tls&sni=google.com&type=ws&host=google.com&path=%2F#%F0%9F%87%BA%F0%9F%87%B8+ShiftVPN+USA+WS
+vless://00d603e8-55cc-484c-b847-a8470a649386@172.67.73.153:443?encryption=none&security=tls&sni=google.com&type=ws&host=google.com&path=%2F#%F0%9F%87%AB%F0%9F%87%B7+ShiftVPN+France+WS
